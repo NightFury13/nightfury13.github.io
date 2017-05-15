@@ -1,6 +1,6 @@
 ---
 title:  "Paper Accepted at ASAR'17!"
-categories: awards
+categories: papers
 ---
 
 # 20th Jan 2017
