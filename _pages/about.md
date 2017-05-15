@@ -4,8 +4,13 @@ title: "About"
 permalink: /about/
 ---
 
+_Musician. Geek. Footballer. Nomad. Scientist. Shinobi._
+
 Namaste!
 
 I am a Research Scholar working on improving Unconstrained Natural Scene and Video Text Recognition using Deep Learning at the [Centre for Visual Information Technology](http://cvit.iiit.ac.in/) in [International Institute of Information Technology Hyderabad](https://iiit.ac.in/).
+Currently pursuing my M.S. (by research) degree from IIIT Hyderabad with majors in Computer Vision and Machine Learning under the guidance of [Prof. C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar).
 
+I am also a budding musician and have performed at various stages across Hyderabad. When I'm not on my guitar or singing, you'll find me on the football field! I play for the University Football Team (soccer) and have also led the team as Captain to winning the Inter-State Championships. Travel is also a new found love, so feel free to get in touch if looking for companions to bagpack across uncharted territories.
 
+_- Mohit_
