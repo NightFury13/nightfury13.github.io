@@ -2,9 +2,6 @@
 layout: splash
 title: "About"
 permalink: /about/
-header:
-  image: /assets/images/Naruto_banner.jpg
-  caption: "Photo credit: [**Pinterest**](https://s-media-cache-ak0.pinimg.com/originals/f1/c6/11/f1c6113b5d02b0ab6288787d7a4ce8af.jpg)"
 ---
 
 Hello there!
