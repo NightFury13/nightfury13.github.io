@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Best Paper Award at ASAR'17!"
 categories: awards
 ---
