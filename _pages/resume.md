@@ -24,5 +24,26 @@ author_profile: true
 **Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/images/ConferencePapers/2017/unconstrained_Scene.pdf), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
 
 ## Experience
+### Lead Backend & ML Developer
+[StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Present)_
+* StartupFlux provides smart business analytics for startups and investors using Deep Learning and Machine Learning techniques. My responsibilities include leading the Back-End and ML operations at this startup, mentoring and managing the team of developers and interns working here.
+
+### Web Administrator
+[IIIT Hyderabad](https://iiit.ac.in), India. _(April'15 - Present)_
+* Job requires maintaining and sustaining various online-portals and and databases in-use at IIIT Hyderabad.
+
+### Research Intern
+[Virginia Tech](https://www.vt.edu/), Blacksburg, U.S.A. _(April'15 - March'16)_
+* Worked on making Convolutional Neural Networks robust against adversarial perturbations under the guidance of [Prof. Dhruv Batra](http://www.cc.gatech.edu/~dbatra/index.html) (VT) and [Prof. CV Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar) (IIIT-H).
+
+### Summer Of Code
+[CloudCV](https://www.cloudcv.org), Blacksburg, U.S.A. _(April'15 - Dec'15)_
+* Work related to the creation of cloud based servers capable of carrying out computation intensive machine learning tasks with a very user friendly GUI.
+
+### Undergraduate Teching Assistant
+[IIIT Hyderabad](https://iiit.ac.in), India.
+* Job requires teaching students of the respective courses via tutorial classes and grading coursework/exams.
+* TA for Computer Networks : Spring'15
+* TA for IT Workshop - I : Fall'14
 
 ## Projects
