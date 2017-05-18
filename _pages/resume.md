@@ -17,7 +17,7 @@ author_profile: true
 ### B.Tech. (honors) in Computer Science
 [IIIT Hyderabad](https://iiit.ac.in) _(July'12 - April'16)_
 * CGPA          : 8.43 (out of 10)
-* Courses       : *ECE449* Artificial Neural Networks - *CSE441* Database Systems - *CSE565* Cloud Computing - *CSE577* Machine Learning - *CSE578* Computer Vision - *CSE481* Optimization Methods - *CSE478* Digital Image Processing - *CSE471* S.M. in AI - *CSE371* Artificial Intelligence - *IEC239* Digital Signal Analysis - *ICS211* Algorithms - *IMA201* Calculas & Complex Numbers
+* Courses       : *ECE449* Artificial Neural Networks - *CSE441* Database Systems - *CSE565* Cloud Computing - *CSE577* Machine Learning - *CSE578* Computer Vision - *CSE481* Optimization Methods - *CSE478* Digital Image Processing - *CSE471* S.M. in AI - *CSE371* Artificial Intelligence - *IEC239* Digital Signal Analysis - *ICS211* Algorithms - *IMA201* Calculas & Complex Numbers - & about 40 more.
 
 ## Publications
 
@@ -30,7 +30,7 @@ author_profile: true
 
 ### Web Administrator
 [IIIT Hyderabad](https://iiit.ac.in), India. _(April'15 - Present)_
-* Job requires maintaining and sustaining various online-portals and and databases in-use at IIIT Hyderabad.
+* Job requires maintaining and sustaining various online-portals and databases in-use at IIIT Hyderabad.
 
 ### Research Intern
 [Virginia Tech](https://www.vt.edu/), Blacksburg, U.S.A. _(April'15 - March'16)_
