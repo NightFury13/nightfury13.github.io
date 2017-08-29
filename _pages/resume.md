@@ -23,9 +23,11 @@ author_profile: true
 
 **Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/images/ConferencePapers/2017/unconstrained_Scene.pdf), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
 
+**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               
+
 ## Experience
 ### Lead Backend & ML Developer
-[StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Present)_
+[StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Apr'17)_
 * StartupFlux provides smart business analytics for startups and investors using Deep Learning and Machine Learning techniques. My responsibilities include leading the Back-End and ML operations at this startup, mentoring and managing the team of developers and interns working here.
 
 ### Web Administrator
