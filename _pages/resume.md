@@ -21,11 +21,11 @@ author_profile: true
 
 ## Publications
 
-**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/images/ConferencePapers/2017/unconstrained_Scene.pdf), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
+**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
 
-**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               
+**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/images/ConferencePapers/2017/ACPR_Camera_Ready___Urdu_OCR__Final_.pdf), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               
 
-[Minesh Mathew](mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
+[Minesh Mathew](mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarking_telugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
 ### Lead Backend & ML Developer
