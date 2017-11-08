@@ -25,7 +25,7 @@ author_profile: true
 
 **Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/images/ConferencePapers/2017/ACPR_Camera_Ready___Urdu_OCR__Final_.pdf), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               
 
-[Minesh Mathew](mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarking_telugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
+[Minesh Mathew](mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
 ### Lead Backend & ML Developer
