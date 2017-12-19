@@ -51,3 +51,13 @@ author_profile: true
 * TA for IT Workshop - I : Fall'14
 
 ## Projects
+
+### Unconstrained Scene Text and Video Text Recognition for Arabic Script
+[Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition)
+* **People Involved** : Mohit Jain, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
+* Building robust recognizers for Arabic has always been challenging. We demonstrate the effectiveness of an end-to-end trainable CNN-RNN hybrid architecture in recognizing Arabic text in videos and natural scenes. We outperform previous state-of-the-art on two publicly available video text datasets - ALIF and AcTiV. For the scene text recognition task, we introduce a new Arabic scene text dataset and establish baseline results. For scripts like Arabic, a major challenge in developing robust recognizers is the lack of large quantity of annotated data. We overcome this by synthesizing millions of Arabic text images from a large vocabulary of Arabic words and phrases.
+
+### Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks
+[Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr)
+* **People Involved** : Mohit Jain, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
+* Building robust text recognition systems for languages with cursive scripts like Urdu has always been challenging. Intricacies of the script and the absence of ample annotated data further act as adversaries to this task. We demonstrate the effectiveness of an end-to-end trainable hybrid CNN-RNN architecture in recognizing Urdu text from printed documents, typically known as Urdu OCR. The solution proposed is not bounded by any language specific lexicon with the model following a segmentation-free, sequence-tosequence transcription approach. The network transcribes a sequence of convolutional features from an input image to a sequence of target labels.
