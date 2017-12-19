@@ -21,11 +21,11 @@ author_profile: true
 
 ## Publications
 
-**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
+**Mohit Jain**, [Minesh Mathew](https://mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained Scene Text and Video Text Recognition for Arabic Script](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition), _1st International Workshop on Arabic Script Analysis and Recognition (ASAR 2017)_, Nancy, France, 2017.               [BEST PAPER AWARD]
 
-**Mohit Jain**, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/images/ConferencePapers/2017/ACPR_Camera_Ready___Urdu_OCR__Final_.pdf), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               [STUDENT TRAVEL AWARD]               
+**Mohit Jain**, [Minesh Mathew](https://mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks](http://cvit.iiit.ac.in/images/ConferencePapers/2017/ACPR_Camera_Ready___Urdu_OCR__Final_.pdf), _4th Asian Conference on Pattern Recognition (ACPR 2017)_, Nanjing, China, 2017.               [STUDENT TRAVEL AWARD]               
 
-[Minesh Mathew](mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
+[Minesh Mathew](https://mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
 ### Lead Backend & ML Developer
@@ -53,9 +53,9 @@ author_profile: true
 ## Projects
 
 ### Unconstrained Scene Text and Video Text Recognition for Arabic Script         ([Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition))
-_People Involved_ : Mohit Jain, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
+_People Involved_ : Mohit Jain, [Minesh Mathew](https://mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
 * Building robust recognizers for Arabic has always been challenging. We demonstrate the effectiveness of an end-to-end trainable CNN-RNN hybrid architecture in recognizing Arabic text in videos and natural scenes. We outperform previous state-of-the-art on two publicly available video text datasets - ALIF and AcTiV. For the scene text recognition task, we introduce a new Arabic scene text dataset and establish baseline results. For scripts like Arabic, a major challenge in developing robust recognizers is the lack of large quantity of annotated data. We overcome this by synthesizing millions of Arabic text images from a large vocabulary of Arabic words and phrases.
 
 ### Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks         ([Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr))
-_People Involved_ : Mohit Jain, [Minesh Mathew](mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
+_People Involved_ : Mohit Jain, [Minesh Mathew](https://mineshmathew.github.io) and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
 * Building robust text recognition systems for languages with cursive scripts like Urdu has always been challenging. Intricacies of the script and the absence of ample annotated data further act as adversaries to this task. We demonstrate the effectiveness of an end-to-end trainable hybrid CNN-RNN architecture in recognizing Urdu text from printed documents, typically known as Urdu OCR. The solution proposed is not bounded by any language specific lexicon with the model following a segmentation-free, sequence-tosequence transcription approach. The network transcribes a sequence of convolutional features from an input image to a sequence of target labels.
