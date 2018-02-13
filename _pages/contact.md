@@ -6,8 +6,8 @@ permalink: /contact/
 
 For Hugs or Bugs,
 
-**Email** : [firstname] DOT [lastname] AT research DOT iiit DOT ac DOT in
+**Email** : [firstname] DOT [lastname] AT abzooba DOT com
 
 **Phone** : +91 78 four two 66 2536
 
-**Address** : Room #268, OBH - Palash Nivas, IIIT Hyderabad, Gachibowli, Hyderabad, Telangana, India - 500032
+**Address** : Abzooba Infotech India Pvt. Ltd., 201, Amar Neptune, Baner, Pune, India - 411007
