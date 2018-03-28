@@ -30,7 +30,8 @@ author_profile: true
 ## Experience
 ### CV Research Engineer
 [Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Present)_
-Abzooba Inc. is a US based data analytics and big data organisation working on text analytics, advanced analytics, predictive data modelling of structured and unstructured data using indigenous next generation data analytics solutions. I work with the Computer Vision Center of Excellence here. My resposibilities span from coming up with state-of-the-art research solutions for various client based requirements to deploying scalable end-to-end systems.
+* Abzooba Inc. is a US based data analytics and big data organisation working on text analytics, advanced analytics, predictive data modelling of structured and unstructured data using indigenous next generation data analytics solutions. I work with the Computer Vision Center of Excellence here. 
+* My resposibilities span from coming up with state-of-the-art research solutions for various client based requirements to deploying scalable end-to-end systems incorporating these solutions.
 
 ### Lead Backend & ML Developer
 [StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Apr'17)_
