@@ -28,6 +28,10 @@ author_profile: true
 [Minesh Mathew](https://mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
+### CV Research Engineer
+[Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Present)_
+Abzooba Inc. is a US based data analytics and big data organisation working on text analytics, advanced analytics, predictive data modelling of structured and unstructured data using indigenous next generation data analytics solutions. I work with the Computer Vision Center of Excellence here. My resposibilities span from coming up with state-of-the-art research solutions for various client based requirements to deploying scalable end-to-end systems.
+
 ### Lead Backend & ML Developer
 [StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Apr'17)_
 * StartupFlux provides smart business analytics for startups and investors using Deep Learning and Machine Learning techniques. My responsibilities include leading the Back-End and ML operations at this startup, mentoring and managing the team of developers and interns working here.
