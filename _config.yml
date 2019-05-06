@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Mohit Jain"
 title_separator          : "-"
 name                     : "Mohit Jain"
-description              : "Mohit Jain's Personal."
+description              : "Mohit Jain's Personal Webpage"
 url                      : "https://nightfury13.github.io"
 baseurl                  : 
 repository               : "nightfury13/nightfury13.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Jain"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/images/_DSC7709-01.jpeg"
   bio              : "CV Research Engineer at Abzooba Infotech<br/><br/><b><i>Past</i></b><br/>M.S. Scholar at CVIT<br/>IIIT Hyderabad<br/><br/><i>The only way forward is deeper...</i>"
   location         : "Pune, India"
   email            : # "kalpit.thakkar@research.iiit.ac.in"
