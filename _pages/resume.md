@@ -9,7 +9,7 @@ author_profile: true
 
 ## Education
 ### M.S. (by research) in Computer Science
-[CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in) _(July'16 - Present)_
+[CVIT, IIIT Hyderabad](http://cvit.iiit.ac.in) _(July'16 - Dec'17)_
 * Thesis        : Unconstrained Arabic & Urdu Text Recognition using Deep CNN-RNN Hybrid Networks
 * Advisor       : [Prof. C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar)
 * Major         : Computer Vision and Machine Learning
