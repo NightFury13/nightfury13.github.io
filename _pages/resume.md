@@ -28,10 +28,13 @@ author_profile: true
 [Minesh Mathew](https://mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
+### Data Scientist
+[XPO Logitics, Inc.](https://www.xpo.com/), Pune, India. _(Jul'19 - Present)_
+Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc.
+
 ### CV Research Engineer
-[Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Present)_
-* Abzooba Inc. is a US based data analytics and big data organisation working on text analytics, advanced analytics, predictive data modelling of structured and unstructured data using indigenous next generation data analytics solutions. I work with the Computer Vision Center of Excellence here. 
-* My resposibilities span from coming up with state-of-the-art research solutions for various client based requirements to deploying scalable end-to-end systems incorporating these solutions.
+[Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Jul'19)_
+Abzooba Inc. is a US based data analytics and big data organisation, rated as one of the “Top Analytics Company 2012” in the world. My role here involves creating production-scale systems from bleeding-edge Computer Vision and Deep Learning algorithms. My responsibilities also include leading the Computer Vision team, handling all Computer Vision related Pre-Sales requests and functioning as the poc for all business and client teams, on-shore and off-shore.
 
 ### Lead Backend & ML Developer
 [StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Apr'17)_
