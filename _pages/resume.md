@@ -30,11 +30,11 @@ author_profile: true
 ## Experience
 ### Data Scientist
 [XPO Logitics, Inc.](https://www.xpo.com/), Pune, India. _(Jul'19 - Present)_
-Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc.
+* Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc.
 
 ### CV Research Engineer
 [Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Jul'19)_
-Abzooba Inc. is a US based data analytics and big data organisation, rated as one of the “Top Analytics Company 2012” in the world. My role here involves creating production-scale systems from bleeding-edge Computer Vision and Deep Learning algorithms. My responsibilities also include leading the Computer Vision team, handling all Computer Vision related Pre-Sales requests and functioning as the poc for all business and client teams, on-shore and off-shore.
+* Abzooba Inc. is a US based data analytics and big data organisation, rated as one of the “Top Analytics Company 2012” in the world. My role here involves creating production-scale systems from bleeding-edge Computer Vision and Deep Learning algorithms. My responsibilities also include leading the Computer Vision team, handling all Computer Vision related Pre-Sales requests and functioning as the poc for all business and client teams, on-shore and off-shore.
 
 ### Lead Backend & ML Developer
 [StartupFlux](https://startupflux.com/), Noida, India. _(Oct'16 - Apr'17)_
