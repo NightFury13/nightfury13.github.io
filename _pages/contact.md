@@ -6,8 +6,8 @@ permalink: /contact/
 
 For Hugs or Bugs,
 
-**Email** : [firstname] DOT [lastname] AT abzooba DOT com
+**Email** : [firstname] DOT [lastname] 2 AT xpo DOT com
 
-**Phone** : +91 78 four two 66 2536
+**Phone** : +91 78 four two double-six 2536
 
-**Address** : Abzooba Infotech India Pvt. Ltd., 201, Amar Neptune, Baner, Pune, India - 411007
+**Address** : XPO Logisitcs Pune Shared Serives LLP, EON IT Park-II, Kharadi, Pune, Maharashtra - 411014
