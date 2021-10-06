@@ -28,9 +28,9 @@ author_profile: true
 [Minesh Mathew](https://mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
-### Data Scientist
-[XPO Logitics, Inc.](https://www.xpo.com/), Pune, India. _(Jul'19 - Present)_
-* Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc.
+### Manager, Data Science and Engineering
+[XPO Logitics, Inc.](https://www.xpo.com/), Hyderabad, India. _(Jul'19 - Present)_
+* Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc. I manage a team of 18 data scientists and data engineers.
 
 ### CV Research Engineer
 [Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Jul'19)_
