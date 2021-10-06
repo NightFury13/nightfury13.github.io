@@ -10,4 +10,4 @@ For Hugs or Bugs,
 
 **Phone** : +91 78 four two double-six 2536
 
-**Address** : XPO Logisitcs Pune Shared Services LLP, 6th Floor (Office #2), Tower-B, EON SEZ Phase II, Grant Road, Kharadi, Pune, Maharashtra - 411014
+**Address** : XPO Logisitcs, 2nd Floor, Skyview 10, SY No. 83/1 Raidurgam, Hitech City Main Rd, Hyderabad, Telangana 500081 IN
