@@ -8,7 +8,7 @@ _Musician. Geek. Footballer. Nomad. Scientist. Shinobi._
 
 Namaste!
 
-I'm a Data Scientist at [XPO Logistics, Inc.](http://www.xpo.com/) and work on solving a large variety of industrial scale problems using computer vision, optimization and data analysis for their Less-Than-Truckload division. Currently working from the Pune office in India.
+I'm the Manager for Data Science and Engineering Team at [XPO Logistics, Inc.](http://www.xpo.com/) and work on solving a large variety of industrial scale problems using computer vision, optimization and data analysis for their Less-Than-Truckload division. Currently working from the Hyderabad office in India, managing a team of 18 Data Scientist and Engineers.
 
 As a Research Scholar at [Centre for Visual Information Technology](http://cvit.iiit.ac.in/) in [International Institute of Information Technology Hyderabad](https://iiit.ac.in/), I worked on improving Unconstrained Natural Scene and Video Text Recognition using Deep Learning. Completed my M.S. (by research) degree defense from IIIT Hyderabad with majors in Computer Vision and Machine Learning under the guidance of [Prof. C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar).
 
