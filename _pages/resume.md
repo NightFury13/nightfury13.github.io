@@ -28,9 +28,26 @@ author_profile: true
 [Minesh Mathew](https://mineshmathew.github.io), **Mohit Jain** and [C.V. Jawahar](http://cvit.iiit.ac.in/people/faculty/people/faculty/cvit-faculty/jawahar), [Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam](http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf), _6th International Workshop on Multilingual OCR (MOCR 2017)_, Kyoto, Japan, 2017.
 
 ## Experience
+
+### Data Science Manager
+[Indeed.com](https://www.indeed.com/), Singapore, Singapore. _(Nov'22 - Present)_
+* Data Science Manager (Engineering TDM) for the Core Ranking team under Match Recommendation Platform organisation. We help people get jobs by providing the best possible Candidate-Job matches across various surfaces on Indeed, using our Recommendation Systems and Machine Learning prowess.
+
 ### Manager, Data Science and Engineering
-[XPO Logitics, Inc.](https://www.xpo.com/), Hyderabad, India. _(Jul'19 - Present)_
-* Work as a Data Scientist with Computer Vision expertise for the Less-Than-Truckload division of XPO Logistics, Inc. I manage a team of 18 data scientists and data engineers.
+[XPO Logitics, Inc.](https://www.xpo.com/), Hyderabad, India. _(Oct'21 - Oct'22)_
+* Lead the 20 member India team comprising of Data Scientists, Data Engineers, Cloud Engineers and Annotators – playing a key role in identifying and implementing multiple white space opportunities, while working closely with India Leadership to establish a new technology office in Hyderabad from the ground up. 
+
+Key Projects/Milestones
+* Data Science : Fraudulent Claims Prediction (XGBoost model predicting status for 15k claims/month worth $20M), Customer Geo-Fencing (DBScan based solution for 600k locations), OPS Metrics Forecasting (ARIMA, Prophet).
+* Data Engineering : Google Bigquery Data Warehouse (2,000 Petabyte data scan/day across 2000+ Informatica workflows serving 72 Data Lake Source systems)
+
+### Senior Data Scientist
+[XPO Logitics, Inc.](https://www.xpo.com/), Pune, India. _(Jul'19 - Oct'21)_
+* XPO is a top ten global provider of transportation and logistics services, with a highly integrated network of people, technology and physical assets. I'm part of the LTL (Less-Than-Truckload) division's IT team and work on solving a large variety of industrial scale problems using computer vision, optimization and data analysis.
+
+Key Project : DR OCR Audit solution for automatically identifying accessorial charges using Computer Vision.
+* Single handedly implemented the custom OpenCV pipeline module to automatically identify accessorial tick marks, which was deployed using Google Cloud Functions, PubSub and Vertex AI Airflow Pipelines.
+* Processes 80,000+ receipts everyday generating an additional $10M of annual revenue.
 
 ### CV Research Engineer
 [Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Jul'19)_
