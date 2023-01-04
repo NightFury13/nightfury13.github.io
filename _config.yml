@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Mohit Jain"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Manager, Data Science and Engineering at XPO Logisitics, Inc.<br/><br/><b><i>Past</i></b><br/>M.S. Scholar at CVIT<br/>IIIT Hyderabad<br/><br/><i>The only way forward is deeper...</i>"
-  location         : "Hyderabad, India"
-  email            : # "kalpit.thakkar@research.iiit.ac.in"
+  bio              : "Data Science Manager at Indeed.com<br/><br/><b><i>Past</i></b><br/>M.S. Scholar at CVIT<br/>IIIT Hyderabad<br/><br/><i>The only way forward is deeper...</i>"
+  location         : "Singapore"
+  email            : # ""
   uri              : "https://scholar.google.co.in/citations?user=-Gi3nP4AAAAJ&hl=en"
   bitbucket        : # "dracarys983"
   codepen          :
@@ -99,12 +99,12 @@ author:
   instagram        : "mohitjain13"
   lastfm           :
   linkedin         : "nightfury13"
-  pinterest        : # "ceasy983"
+  pinterest        : # ""
   soundcloud       : "mohit-jain-43"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : #"silly"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
