@@ -50,7 +50,7 @@ Key Project : DR OCR Audit solution for automatically identifying accessorial ch
 * Processes 80,000+ receipts everyday generating an additional $10M of annual revenue.
 
 ### CV Research Engineer
-[Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'16 - Jul'19)_
+[Abzooba Infotech India Pvt. Ltd.](https://abzooba.com), Pune, India. _(Jan'17 - Jul'19)_
 * Abzooba Inc. is a US based data analytics and big data organisation, rated as one of the “Top Analytics Company 2012” in the world. My role here involves creating production-scale systems from bleeding-edge Computer Vision and Deep Learning algorithms. My responsibilities also include leading the Computer Vision team, handling all Computer Vision related Pre-Sales requests and functioning as the poc for all business and client teams, on-shore and off-shore.
 
 ### Lead Backend & ML Developer
